@@ -1,0 +1,15 @@
+/home/lucas/CalcularImprimirNotasAlunos/bin/Debug/net8.0/CalcularImprimirNotasAlunos
+/home/lucas/CalcularImprimirNotasAlunos/bin/Debug/net8.0/CalcularImprimirNotasAlunos.deps.json
+/home/lucas/CalcularImprimirNotasAlunos/bin/Debug/net8.0/CalcularImprimirNotasAlunos.runtimeconfig.json
+/home/lucas/CalcularImprimirNotasAlunos/bin/Debug/net8.0/CalcularImprimirNotasAlunos.dll
+/home/lucas/CalcularImprimirNotasAlunos/bin/Debug/net8.0/CalcularImprimirNotasAlunos.pdb
+/home/lucas/CalcularImprimirNotasAlunos/obj/Debug/net8.0/CalcularImprimirNotasAlunos.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/CalcularImprimirNotasAlunos/obj/Debug/net8.0/CalcularImprimirNotasAlunos.AssemblyInfoInputs.cache
+/home/lucas/CalcularImprimirNotasAlunos/obj/Debug/net8.0/CalcularImprimirNotasAlunos.AssemblyInfo.cs
+/home/lucas/CalcularImprimirNotasAlunos/obj/Debug/net8.0/CalcularImprimirNotasAlunos.csproj.CoreCompileInputs.cache
+/home/lucas/CalcularImprimirNotasAlunos/obj/Debug/net8.0/CalcularImprimirNotasAlunos.dll
+/home/lucas/CalcularImprimirNotasAlunos/obj/Debug/net8.0/refint/CalcularImprimirNotasAlunos.dll
+/home/lucas/CalcularImprimirNotasAlunos/obj/Debug/net8.0/CalcularImprimirNotasAlunos.pdb
+/home/lucas/CalcularImprimirNotasAlunos/obj/Debug/net8.0/CalcularImprimirNotasAlunos.genruntimeconfig.cache
+/home/lucas/CalcularImprimirNotasAlunos/obj/Debug/net8.0/ref/CalcularImprimirNotasAlunos.dll
+/home/lucas/CalcularImprimirNotasAlunos/obj/Debug/net8.0/CalcularImprimirNotasAlunos.sourcelink.json
